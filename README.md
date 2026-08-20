@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">My name is Dike and I'm a editor from Kota Madiun </p>
 
 ###
 
