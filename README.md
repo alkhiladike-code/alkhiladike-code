@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p data-importer="text" align="left">My name is Dike and I'm a editor from Kota Madiun </p>
+<p data-importer="text" align="left">My name is Alkhila Dike Keysa Zahrora and I'm a beginner from Madiun City </p>
 
 ###
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2026 <br>📚 I'm currently learning programming language <br>🎯 Goals: mastering ever-evolving technology <br>🎲 Fun fact: can enhance skills and critical thinking abilities .</p>
 
 ###
 
